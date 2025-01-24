@@ -1,7 +1,7 @@
 # Usb data sender
 ## CLI tool for sending data to usb devices
 
-This is tool for sending data to usb devices. It uses libusb and allows to send control, bulk or interrupt transfers.
+This is tool for sending data to usb devices. It uses libusb and allows sending control, bulk or interrupt transfers.
 
 ### Example use
 
